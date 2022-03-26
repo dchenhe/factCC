@@ -1,4 +1,4 @@
-This is a repo about how to get factcc scores of your generated summary.
+This is a repo about how to get factCC score of your generated summary.
 
 1. git clone this repo and download the trained model by clicking this link :  https://storage.googleapis.com/sfr-factcc-data-research/factcc-checkpoint.tar.gz
 2. depress the model in the root path of this repo and prepare your source and target(summary) document
