@@ -6,5 +6,5 @@ This is a repo about how to get factCC score of your generated summary.
 
 Any suggestions are welcome!
 
-Please refer to the following links to get more about factcc :
+Please refer to the following link to get more about factcc :
 https://github.com/salesforce/factCC
